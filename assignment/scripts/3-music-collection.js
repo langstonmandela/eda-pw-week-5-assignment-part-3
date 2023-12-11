@@ -1,6 +1,9 @@
 console.log('***** Music Collection *****')
 // Safe Zone -- Write code below this line
 
+const myCollection = [];
+
+console.log( 'This is the first time displaying myCollection:', myCollection , 'it should be empty at this point!' );
 
 
 
